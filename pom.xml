@@ -102,7 +102,7 @@
         <!-- html  -->
         <jsoup.version>1.10.1</jsoup.version>
         <!-- spring-boot version -->
-        <spring-boot.version>1.5.6.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.21.RELEASE</spring-boot.version>
         <!-- compiler-plugin version -->
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <!-- surefile-plugin test util -->
