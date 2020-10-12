@@ -114,7 +114,7 @@
         <!-- api文档 -->
         <springfox-swagger-ui.version>2.2.2</springfox-swagger-ui.version>
         <!-- mybatis -->
-        <mybatis.version>1.1.1</mybatis.version>
+        <mybatis.version>1.2.0</mybatis.version>
         <!-- 操作html -->
         <jsoup.version>1.9.2</jsoup.version>
         <!-- excel -->
