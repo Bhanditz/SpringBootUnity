@@ -102,7 +102,7 @@
         <!-- html  -->
         <jsoup.version>1.10.1</jsoup.version>
         <!-- spring-boot version -->
-        <spring-boot.version>1.5.6.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <!-- compiler-plugin version -->
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <!-- surefile-plugin test util -->
@@ -120,7 +120,7 @@
         <!-- excel -->
         <jxl.version>2.6.12</jxl.version>
         <!-- microsoft office -->
-        <poi.version>3.10-beta2</poi.version>
+        <poi.version>4.1.1</poi.version>
     </properties>
 
 
